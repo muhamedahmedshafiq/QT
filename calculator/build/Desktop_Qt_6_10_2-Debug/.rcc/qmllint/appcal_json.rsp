@@ -1,0 +1,16 @@
+--bare
+-I
+/home/muhamed/ITI/ITI_ANAS/QT/cal/build/Desktop_Qt_6_10_2-Debug
+-I
+/home/muhamed/ITI/ITI_ANAS/QT/cal/build/Desktop_Qt_6_10_2-Debug/cal
+-I
+/home/muhamed/ITI/ITI_ANAS/QT/cal/build/Desktop_Qt_6_10_2-Debug
+-I
+/home/muhamed/Qt/6.10.2/gcc_64/qml
+--resource
+/home/muhamed/ITI/ITI_ANAS/QT/cal/build/Desktop_Qt_6_10_2-Debug/.qt/rcc/qmake_cal.qrc
+--resource
+/home/muhamed/ITI/ITI_ANAS/QT/cal/build/Desktop_Qt_6_10_2-Debug/.qt/rcc/appcal_raw_qml_0.qrc
+/home/muhamed/ITI/ITI_ANAS/QT/cal/Main.qml
+--json
+/home/muhamed/ITI/ITI_ANAS/QT/cal/build/Desktop_Qt_6_10_2-Debug/appcal_qmllint.json

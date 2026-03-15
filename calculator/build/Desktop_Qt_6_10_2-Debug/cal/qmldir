@@ -1,0 +1,6 @@
+module cal
+typeinfo appcal.qmltypes
+prefer :/qt/qml/cal/
+Main 254.0 Main.qml
+depends QtQuick
+

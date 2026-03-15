@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/cal/">
+    <file alias="Main.qml">/home/muhamed/ITI/ITI_ANAS/QT/cal/Main.qml</file>
+  </qresource>
+</RCC>
+

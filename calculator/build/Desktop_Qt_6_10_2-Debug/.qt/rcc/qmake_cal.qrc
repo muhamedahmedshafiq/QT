@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/cal">
+    <file alias="qmldir">/home/muhamed/ITI/ITI_ANAS/QT/cal/build/Desktop_Qt_6_10_2-Debug/cal/qmldir</file>
+  </qresource>
+</RCC>
+
